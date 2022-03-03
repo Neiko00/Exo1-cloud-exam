@@ -1,1 +1,4 @@
-Exo1-cloud-exam
+Static Website Example
+----------------------
+
+Static website exercise for Cloud exam
